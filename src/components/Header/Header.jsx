@@ -31,14 +31,14 @@ function Header() {
                 </ul>
                 <ul className={`dropdown-menu dropdown ${isDropdownVisible ? 'visible' : ''}`}    onMouseEnter={handleMouseEnter} 
                   onMouseLeave={handleMouseLeave}>
-                    <li><a href="#">Swimming Pool Contractors</a></li>
+                    <li><a href="#">Swimming Pool</a></li>
                     <li><a href="#">Water Features</a></li>
                     <li><a href="#">Outdoor Amenities</a></li>
                     <li><a href="#">Soft Landscaping</a></li>
                     <li><a href="#">Irrigation</a></li>
                     <li><a href="#">Landscape Light</a></li>
                     <li><a href="#">Interior Fit Out</a></li>
-                    <li><a href="#">BBQ,Fire and & Pizza Oven</a></li>
+                    <li><a href="#">BBQ,Fire and & Pizza</a></li>
                     <li><a href="#">Renovation</a></li>
                     <li><a href="#">Wellness</a></li>
                     <li><a href="#">Automated Pergola</a></li>
