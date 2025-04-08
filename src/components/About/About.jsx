@@ -5,7 +5,7 @@ function About() {
   return (
     <div>
         <div className="about1">
-            <div className="about11"><img src="../../../public/dmitry-zmiy-23wP35J5wNo-unsplash.jpg" alt="" /></div>
+            <div className="about11"><img src="dmitry-zmiy-23wP35J5wNo-unsplash.jpg" alt="" /></div>
             <div className="about12">
                 <h1>
 About us

@@ -2,12 +2,12 @@ import React, { useState, useEffect } from 'react';
 import './Hero.css'; // Make sure you create a Hero.css file for styling
 
 const images = [
-  { src: '../../../public/alicja-ziajowska-WcbEQ0eDj_o-unsplash.jpg', text: 'Random Text 1' },
-  { src: '../../../public/ammar-el-attar-RCotcyH_2gw-unsplash.jpg', text: 'Random Text 2' },
-  { src: '../../../public/axp-photography-madPGwSpcPA-unsplash.jpg', text: 'Random Text 3' },
-  { src: '../../../public/di-2BanBS4oAIU-unsplash.jpg', text: 'Random Text 4' },
-  { src: '../../../public/jeshoots-com-DpLibjAV2R8-unsplash.jpg', text: 'Random Text 5' },
-  { src: '../../../public/michael-starkie-YTObvkcE38I-unsplash.jpg', text: 'Random Text 6' }
+  { src: 'alicja-ziajowska-WcbEQ0eDj_o-unsplash.jpg', text: 'Random Text 1' },
+  { src: 'ammar-el-attar-RCotcyH_2gw-unsplash.jpg', text: 'Random Text 2' },
+  { src: 'axp-photography-madPGwSpcPA-unsplash.jpg', text: 'Random Text 3' },
+  { src: 'di-2BanBS4oAIU-unsplash.jpg', text: 'Random Text 4' },
+  { src: 'jeshoots-com-DpLibjAV2R8-unsplash.jpg', text: 'Random Text 5' },
+  { src: 'michael-starkie-YTObvkcE38I-unsplash.jpg', text: 'Random Text 6' }
 ];
 
 function Hero() {
