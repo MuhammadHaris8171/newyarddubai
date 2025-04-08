@@ -16,7 +16,7 @@ function Header() {
   return (
     <div>
         <div className="Header1">
-            <div className="Header11"><a href="#"><img src="public/logo.png" alt="" /></a></div>
+            <div className="Header11"><a href="#"><img src="logo.png" alt="" /></a></div>
             <div className="Header12">
                 <ul><li><a href="#">Home</a></li>
                 <li><a href="#">About</a></li>
